@@ -4,7 +4,8 @@
   "description": "Formulario para la materia de aplicaciones web progresivas",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "deploy": "gh-pages -d ."
   },
   "keywords": [
     "formulario",
